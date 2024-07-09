@@ -1,0 +1,174 @@
+/* Enhanced and Modernized Styles for Popup Component */
+
+/* Base styling for the popup overlay */
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.75);
+  /* Darker overlay for better focus on popup */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: fadeIn 0.5s ease-out;
+  /* Smooth fade-in animation */
+}
+
+/* Keyframes for fade-in effect */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+/* Styling for the popup content box */
+.popup-content {
+  width: 60%;
+  height: 45%;
+  background: #4a4a4a;
+  /* Slightly lighter shade for contrast */
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  /* More pronounced shadow for depth */
+  text-align: center;
+  transform: scale(0.9);
+  /* Start slightly smaller for animation */
+  animation: popIn 0.4s forwards;
+  /* Pop-in animation */
+}
+
+/* Keyframes for pop-in effect */
+@keyframes popIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0.5;
+  }
+
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Styling for user name and email with modern font settings */
+.user__name,
+.user__email {
+  margin: 20px 0;
+  color: #fff;
+  font-weight: 600;
+  /* Less bold for a modern look */
+  font-size: 2rem;
+  /* Responsive font size */
+  transition: color 0.3s ease;
+  /* Smooth transition for hover effects */
+}
+
+/* Hover effect for text */
+.user__name:hover,
+.user__email:hover {
+  color: #e0e0e0;
+  /* Lighter color on hover */
+}
+
+/* Input field styling with modern aesthetics */
+input {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 8px;
+  /* More rounded corners */
+  border: 2px solid #ccc;
+  /* Thicker border for emphasis */
+  font-size: 1.125rem;
+  /* Larger font size for readability */
+  transition: border-color 0.3s ease;
+  /* Smooth transition for focus */
+}
+
+/* Focus effect for input fields */
+input:focus {
+  border-color: #007bff;
+  /* Highlight color on focus */
+}
+
+/* Button styling with modern design cues */
+button {
+  padding: 12px 24px;
+  border-radius: 12px;
+  /* More rounded for a modern look */
+  border: 2px solid transparent;
+  /* Prepared for hover effect */
+  background: #0056b3;
+  /* Slightly different shade for a modern look */
+  color: #fff;
+  font-size: 1.25rem;
+  /* Larger font size for emphasis */
+  cursor: pointer;
+  margin: 10px 40px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  /* Smooth transition for hover */
+}
+
+/* Hover and focus effects for buttons */
+button:hover,
+button:focus {
+  background: #fff;
+  color: #0056b3;
+  border-color: #0056b3;
+  /* Adds a border color matching the text */
+}
+
+/* Responsive adjustments for better usability on all devices */
+@media screen and (max-width: 768px) {
+  .popup-content {
+    width: 80%;
+    height: 60%;
+  }
+
+  .user__name,
+  .user__email {
+    font-size: 1.75rem;
+    /* Adjusted for smaller screens */
+  }
+
+  input,
+  button {
+    font-size: 1rem;
+    /* Smaller font size for space efficiency */
+  }
+
+  button {
+    margin: 10px 20px;
+    /* Adjusted margins for consistency */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .popup-content {
+    width: 90%;
+    height: 70%;
+  }
+
+  .user__name,
+  .user__email {
+    font-size: 1.5rem;
+    /* Further adjusted for very small screens */
+  }
+
+  input,
+  button {
+    font-size: 0.875rem;
+    /* Further reduced font size for compact layout */
+  }
+
+  button {
+    margin: 10px;
+    /* Reduced margin for tighter spaces */
+  }
+}

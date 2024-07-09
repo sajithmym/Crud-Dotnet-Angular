@@ -1,0 +1,339 @@
+F:\C#\Crud_api\bin\Debug\net8.0\appsettings.Development.json
+F:\C#\Crud_api\bin\Debug\net8.0\appsettings.json
+F:\C#\Crud_api\bin\Debug\net8.0\Crud_api.exe
+F:\C#\Crud_api\bin\Debug\net8.0\Crud_api.deps.json
+F:\C#\Crud_api\bin\Debug\net8.0\Crud_api.runtimeconfig.json
+F:\C#\Crud_api\bin\Debug\net8.0\Crud_api.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Crud_api.pdb
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.csproj.AssemblyReference.cache
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.AssemblyInfoInputs.cache
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.AssemblyInfo.cs
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.csproj.CoreCompileInputs.cache
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cs
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cache
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.sourcelink.json
+F:\C#\Crud_api\obj\Debug\net8.0\staticwebassets.build.json
+F:\C#\Crud_api\obj\Debug\net8.0\staticwebassets.development.json
+F:\C#\Crud_api\obj\Debug\net8.0\staticwebassets\msbuild.Crud_api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C#\Crud_api\obj\Debug\net8.0\staticwebassets\msbuild.build.Crud_api.props
+F:\C#\Crud_api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Crud_api.props
+F:\C#\Crud_api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Crud_api.props
+F:\C#\Crud_api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C#\Crud_api\obj\Debug\net8.0\scopedcss\bundle\Crud_api.styles.css
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.csproj.Up2Date
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.dll
+F:\C#\Crud_api\obj\Debug\net8.0\refint\Crud_api.dll
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.pdb
+F:\C#\Crud_api\obj\Debug\net8.0\Crud_api.genruntimeconfig.cache
+F:\C#\Crud_api\obj\Debug\net8.0\ref\Crud_api.dll
+F:\C#\Crud_api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Google.Protobuf.dll
+F:\C#\Crud_api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\C#\Crud_api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\C#\Crud_api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\C#\Crud_api\bin\Debug\net8.0\MySql.Data.dll
+F:\C#\Crud_api\bin\Debug\net8.0\MySqlConnector.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\C#\Crud_api\bin\Debug\net8.0\ZstdSharp.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Azure.Core.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Azure.Identity.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\C#\Crud_api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\C#\Crud_api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\Crud_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\appsettings.Development.json
+F:\C#\Crud App\Backend\bin\Debug\net8.0\appsettings.json
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Crud_api.exe
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Crud_api.deps.json
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Crud_api.runtimeconfig.json
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Crud_api.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Crud_api.pdb
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Azure.Core.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Azure.Identity.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Google.Protobuf.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\MySql.Data.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\MySqlConnector.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.Memory.Data.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\ZstdSharp.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.AssemblyReference.cache
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.AssemblyInfoInputs.cache
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.AssemblyInfo.cs
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.CoreCompileInputs.cache
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cs
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cache
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.sourcelink.json
+F:\C#\Crud App\Backend\obj\Debug\net8.0\staticwebassets.build.json
+F:\C#\Crud App\Backend\obj\Debug\net8.0\staticwebassets.development.json
+F:\C#\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.Crud_api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C#\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Crud_api.props
+F:\C#\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Crud_api.props
+F:\C#\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Crud_api.props
+F:\C#\Crud App\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C#\Crud App\Backend\obj\Debug\net8.0\scopedcss\bundle\Crud_api.styles.css
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.Up2Date
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.dll
+F:\C#\Crud App\Backend\obj\Debug\net8.0\refint\Crud_api.dll
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.pdb
+F:\C#\Crud App\Backend\obj\Debug\net8.0\Crud_api.genruntimeconfig.cache
+F:\C#\Crud App\Backend\obj\Debug\net8.0\ref\Crud_api.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\appsettings.Development.json
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\appsettings.json
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.exe
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.deps.json
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.runtimeconfig.json
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.pdb
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Azure.Core.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Azure.Identity.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Google.Protobuf.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\MySql.Data.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\MySqlConnector.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Memory.Data.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\ZstdSharp.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.AssemblyReference.cache
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.GeneratedMSBuildEditorConfig.editorconfig
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.AssemblyInfoInputs.cache
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.AssemblyInfo.cs
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.CoreCompileInputs.cache
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cs
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cache
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.sourcelink.json
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets.build.json
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets.development.json
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.Crud_api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Crud_api.props
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Crud_api.props
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Crud_api.props
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\scopedcss\bundle\Crud_api.styles.css
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.Up2Date
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.dll
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\refint\Crud_api.dll
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.pdb
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.genruntimeconfig.cache
+F:\C Sharp\Crud App\Backend\obj\Debug\net8.0\ref\Crud_api.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\appsettings.Development.json
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\appsettings.json
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.exe
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.deps.json
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.runtimeconfig.json
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Crud_api.pdb
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Azure.Core.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Azure.Identity.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Google.Protobuf.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\MySql.Data.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\MySqlConnector.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Memory.Data.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\ZstdSharp.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C Sharp\Crud App\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.AssemblyReference.cache
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.AssemblyInfoInputs.cache
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.AssemblyInfo.cs
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.CoreCompileInputs.cache
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cs
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.MvcApplicationPartsAssemblyInfo.cache
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets.build.json
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets.development.json
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.Crud_api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Crud_api.props
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Crud_api.props
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Crud_api.props
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\scopedcss\bundle\Crud_api.styles.css
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.csproj.Up2Date
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.dll
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\refint\Crud_api.dll
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.pdb
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.genruntimeconfig.cache
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\ref\Crud_api.dll

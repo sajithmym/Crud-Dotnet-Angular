@@ -1,0 +1,114 @@
+/* Modernized CSS for User Interface */
+
+/* Container for all users, with improved layout and aesthetics */
+.allUsers {
+    display: flex;
+    /* Utilizes flexbox for better alignment and spacing */
+    flex-direction: column;
+    /* Stacks children vertically */
+    gap: 20px;
+    /* Adds space between items */
+    margin: 2rem auto;
+    /* Centers the container with responsive margins */
+    padding: 1rem;
+    /* Adds padding inside the container */
+    /* border: 1px solid #ccc; */
+    /* Subtle border for definition */
+    border-radius: 10px;
+    /* Smooths corners for a modern look */
+    /* background: rgba(174, 188, 205, 0.334); */
+    /* Semi-transparent and softer background */
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+    /* Softer shadow for depth */
+    max-width: 70%;
+    /* Limits maximum width for better layout on large screens */
+    overflow: hidden;
+    /* Ensures content does not overflow container boundaries */
+
+}
+
+/* Styling for each user, focusing on interactivity and readability */
+.user {
+    display: flex;
+    /* Enables flexible layouts within user items */
+    align-items: center;
+    /* Vertically centers content */
+    justify-content: space-between;
+    /* Distributes space between items */
+    padding: 1rem;
+    /* Comfortable padding around content */
+    border: 1px solid #ccc;
+    /* Defines boundaries subtly */
+    border-radius: 10px;
+    /* Modern rounded corners */
+    background: linear-gradient(145deg, rgba(174, 188, 205, 0.6), rgba(174, 188, 205, 0.4));
+    /* Subtle gradient for depth */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Soft shadow for floating effect */
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    /* Smooth transitions for interactions */
+    cursor: pointer;
+    /* Indicates interactivity */
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* Enhances the hover effect with motion and color change */
+.user:hover {
+    transform: translateY(-5px);
+    /* Slight lift effect */
+    background-color: #222;
+    /* Dark mode on hover */
+
+}
+
+/* Modern styling for user names, making them stand out */
+.user__name {
+    font-size: 1.2rem;
+    /* Larger, more readable size */
+    font-weight: 600;
+    /* Semi-bold for emphasis */
+    color: #fff;
+    /* High contrast for readability */
+    color: darkblue;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+/* Updated email styling for clarity and consistency */
+.user__email {
+    font-size: 1rem;
+    /* Standard size for secondary information */
+    font-weight: 400;
+    /* Regular weight for less emphasis */
+    color: #ddd;
+    /* Soft color for differentiation */
+    color: black;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+/* Responsive adjustments for better mobile experience */
+@media screen and (max-width: 768px) {
+    .allUsers {
+        margin: 1rem;
+        /* Reduces margin for more screen space */
+        padding: 0.5rem;
+        /* Adjusts padding for compact layout */
+    }
+
+    .user {
+        flex-direction: column;
+        /* Stacks content for better readability */
+        gap: 10px;
+        /* Adds space between stacked items */
+    }
+
+    .user__name,
+    .user__email {
+        text-align: center;
+        /* Centers text for consistency */
+    }
+}
