@@ -337,3 +337,4 @@ E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\refint\Crud_api.dll
 E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.pdb
 E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.genruntimeconfig.cache
 E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\ref\Crud_api.dll
+E:\C Sharp\Crud App\Backend\obj\Debug\net8.0\Crud_api.sourcelink.json
